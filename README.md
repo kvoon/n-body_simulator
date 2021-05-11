@@ -1,6 +1,5 @@
 ## Project Description 
-
-As per Assignment specs, 
+As per Assignment specs :  
 You are tasked with constructing an application for an n-body simulation. This is a common
 astrophysics simulation, modelling orbiting bodies within our solar system and galaxy. Your
 application will simulate the orbiting patterns of celestial bodies within your system. This may be
